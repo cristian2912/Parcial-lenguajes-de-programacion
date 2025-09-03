@@ -1,0 +1,3 @@
+sqrt(9)
+sqrt(2)
+sqrt(16)
