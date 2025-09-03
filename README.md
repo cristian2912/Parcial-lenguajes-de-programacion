@@ -77,7 +77,12 @@ pruebas:
 <img width="503" height="69" alt="image" src="https://github.com/user-attachments/assets/0b07a880-f211-4428-a261-1e82bd5cff87" />
 
 
+pasos:
 
+use C que es in lenguaje compilado
+use PY que es un lenguaje interpretado
+use las funciones time.time() y <time.h> respectivamente
+compare los tiempos y se ecidencio que compilado es mucho mas rapido ya que py lee linea por linea
 
 evidencias:
 
