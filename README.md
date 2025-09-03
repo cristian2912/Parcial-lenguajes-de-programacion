@@ -9,9 +9,22 @@
 Procesos que lleve a cabo:
 
 1. cree el archivo .py con el comando
-   
-nano afd_abcs.py
 
+```
+nano afd_abcs.py
+```
+2. meti el codigo en python y luego lo guarde (ver )
+   
+3. ejecute el codifo y verifique que se cumplieran las reglas mediante estos ensayos:
+aaaabbccc
+ACEPTADA
+abca
+RECHAZADA
+
+
+```
+
+```
 
 Salida:
 
