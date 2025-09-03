@@ -13,7 +13,7 @@ Procesos que lleve a cabo:
 ```
 nano afd_abcs.py
 ```
-2. meti el codigo en python y luego lo guarde (ver )
+2. meti el codigo en python y luego lo guarde (ver afd_abcs.py )
    
 3. ejecute el codifo y verifique que se cumplieran las reglas mediante estos ensayos:
 aaaabbccc
@@ -22,11 +22,7 @@ abca
 RECHAZADA
 
 
-```
-
-```
-
-Salida:
+Evidencia:
 
 <img width="476" height="461" alt="image" src="https://github.com/user-attachments/assets/788a99b8-1e9e-499d-9ddc-0014728118c2" />
 
@@ -37,3 +33,7 @@ Salida:
 
 <img width="480" height="72" alt="image" src="https://github.com/user-attachments/assets/27af0bbb-327b-441e-9164-1aba456cc45c" />
 
+
+Evidencia:
+
+<img width="872" height="735" alt="image" src="https://github.com/user-attachments/assets/2e9654ff-21ff-4674-8101-34bcf219e14a" />
