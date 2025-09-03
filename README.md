@@ -47,6 +47,24 @@ Pasos:
 nano afd_id.py
 ```
 4. ejecute el codigo(ver afd_id.py)
+
+   
 Evidencia:
 
 <img width="872" height="735" alt="image" src="https://github.com/user-attachments/assets/2e9654ff-21ff-4674-8101-34bcf219e14a" />
+
+
+# Tercer punto
+
+<img width="476" height="69" alt="image" src="https://github.com/user-attachments/assets/3ca58db6-1332-455b-8d28-d5eac979997b" />
+
+
+pasos:
+
+
+
+pruebas:
+
+<img width="465" height="568" alt="image" src="https://github.com/user-attachments/assets/016c4cb6-86d6-4afb-b3e2-4937821af569" />
+
+
