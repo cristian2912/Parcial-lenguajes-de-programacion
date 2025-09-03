@@ -61,7 +61,9 @@ Evidencia:
 
 pasos:
 
-
+1. use lexer.l que son las reglas de flex, parser.y que es la gramatica de bison
+2. en bison entiende numeros y la palabra reservada sqrt
+3. flex separa los tokens
 
 pruebas:
 
