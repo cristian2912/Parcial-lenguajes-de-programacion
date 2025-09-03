@@ -2,8 +2,15 @@
 
 # Primer punto:
 
+
 <img width="483" height="92" alt="image" src="https://github.com/user-attachments/assets/a733f6c1-b87b-4ae7-906b-b5946b2dbbea" />
 
+
+Procesos que lleve a cabo:
+
+1. cree el archivo .py con el comando
+   
+nano afd_abcs.py
 
 
 Salida:
