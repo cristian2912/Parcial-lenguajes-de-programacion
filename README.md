@@ -62,11 +62,36 @@ Evidencia:
 pasos:
 
 1. use lexer.l que son las reglas de flex, parser.y que es la gramatica de bison
-2. en bison entiende numeros y la palabra reservada sqrt
+2. el bison entiende numeros y la palabra reservada sqrt
 3. flex separa los tokens
 
 pruebas:
 
 <img width="465" height="568" alt="image" src="https://github.com/user-attachments/assets/016c4cb6-86d6-4afb-b3e2-4937821af569" />
+
+
+
+# Cuarto punto
+
+
+<img width="503" height="69" alt="image" src="https://github.com/user-attachments/assets/0b07a880-f211-4428-a261-1e82bd5cff87" />
+
+
+
+
+evidencias:
+
+
+con C
+
+
+<img width="299" height="281" alt="image" src="https://github.com/user-attachments/assets/9d00e4ed-a405-4ec0-aa9f-2b2f3a0937d3" />
+
+
+con py
+
+
+<img width="417" height="342" alt="image" src="https://github.com/user-attachments/assets/32cd347d-f9f5-45ba-b2bc-5588aad686c6" />
+
 
 
