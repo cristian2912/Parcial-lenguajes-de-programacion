@@ -34,6 +34,19 @@ Evidencia:
 <img width="480" height="72" alt="image" src="https://github.com/user-attachments/assets/27af0bbb-327b-441e-9164-1aba456cc45c" />
 
 
+
+Pasos:
+
+1. El primer caracter debe ser una letra (A-Z o a-z) y los siguientes pueden ser letras o numeros
+
+2. q0 = estado inicial,, si lee letra va a q1, si no rechaza,  q1 = estado que acepta, si lee letra o numero sigue en q1, pero si lee otra cosa lo rechaza
+
+3. cree el archivo .py con el comando
+
+```
+nano afd_id.py
+```
+4. ejecute el codigo(ver afd_id.py)
 Evidencia:
 
 <img width="872" height="735" alt="image" src="https://github.com/user-attachments/assets/2e9654ff-21ff-4674-8101-34bcf219e14a" />
